@@ -1,5 +1,15 @@
 ### Exercícios cobrem conceitos fundamentais em Java
-- Entrada/saída (Scanner),
-- Estruturas de controle (if, for, while, switch),
-- Manipulação de strings e arrays,
-- Lógica básica de programação.
+- Entrada/saída (Scanner)
+- Estruturas de controle (if, for, while, switch)
+- Manipulação de strings e arrays
+- Lógica básica de programação
+
+### To Do
+- Classes e Objetos: Atributos, métodos, construtores
+- Encapsulamento: Modificadores de acesso (private, protected)
+- Herança: extends, super(), @Override
+- Polimorfismo: Interfaces e métodos sobrescritos
+- Arrays: Unidimensionais, bidimensionais, de objetos
+- Loops: for, while, do-while, for-each
+- Métodos Estáticos: Pertencem à classe, não ao objeto
+- Validação: Entrada do usuário com loops
