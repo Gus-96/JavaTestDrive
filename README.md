@@ -3,8 +3,6 @@
 - Estruturas de controle (if, for, while, switch)
 - Manipulação de strings e arrays
 - Lógica básica de programação
-
-### To Do
 - Classes e Objetos: Atributos, métodos, construtores
 - Encapsulamento: Modificadores de acesso (private, protected)
 - Herança: extends, super(), @Override
